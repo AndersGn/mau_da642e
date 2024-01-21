@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Do not include windows system files
+desktop.ini
+
+# Secret settings file
+SecretSettings.ini
+
+# MacOs files
+*.DS_Store
