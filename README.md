@@ -8,3 +8,9 @@ How to run the Lab files:
 * Install [jupyter-notebook](https://jupyter.org/install#jupyter-notebook) (I'm using Version: 7.0.4) on your local machine
 * Clone this github reporsitory: https://github.com/AndersGn/mau_da642e.git
 * Navigate to the cloned github repository and open the Labs/LabX/ file in Visual Studio Code and run it
+
+#  Lab Contents
+
+## Lab 1 - "Getting Started"
+* Python programming basics
+

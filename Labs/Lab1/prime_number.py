@@ -1,22 +1,24 @@
-# primenumber.py
-
-# Lab1: This Python script returns True if it is a prime number and false if it is not a prime number
+# Lab1: This Python script returns True if it is a prime number and False if it is not a prime number
 
 # Author: Anders Grahn
 # Date: 2024-01-21
 
 # Returns true if it is a prime number
 def check_if_prime_number(number):
-
+  
   # Only numbers higher than 1 can be prime numbers
   if number < 2:
     return False
+  
+  # 2 is the only even prime number so just return True if the user inputs 2
+  if number == 2:
+    return True
 
   # Here we check if it is an even number (even numbers cannot be prime numbers)
   if (number % 2) == 0:
     return False
 
-  # Here we create a range of numbers up to the divided prime number to be tested
+  # Here we create a range of numbers to be tested
   numbers_to_test = range(2, round(number)) # Since we start on zero the last number is not included, and we round our float (divided value) so it becomes an int
 
   # Here we keep track of all odd numbers to divide with the user input
