@@ -1,6 +1,9 @@
 # mau_da642e
 School Assignment: DA642E VT24, AI and Data Management for IoT
 
+# Directory Structure
+The individual Lab files are found under the Labs/LabX/ folders
+
 How to run the Lab files:
 
 * Install [VSCode](https://code.visualstudio.com/)
@@ -12,5 +15,10 @@ How to run the Lab files:
 #  Lab Contents
 
 ## Lab 1 - "Getting Started"
-* Python programming basics
+Python programming basics
+* Know how to receive input from the user.
+* Know how to format your text/number output.
+* Know the difference between Python built-in data structures.
+* Write different kinds of loops and conditionals and use the loop controls.
+* Can write a simple function and class in Python.
 
