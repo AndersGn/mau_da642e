@@ -14,11 +14,18 @@ How to run the Lab files:
 
 #  Lab Contents
 
-## Lab 1 - "Getting Started"
-Python programming basics
-* Know how to receive input from the user.
-* Know how to format your text/number output.
-* Know the difference between Python built-in data structures.
-* Write different kinds of loops and conditionals and use the loop controls.
-* Can write a simple function and class in Python.
+## Lab 1 - Getting Started
+Python programming basics.
+* Know how to receive input from the user
+* Know how to format your text/number output
+* Know the difference between Python built-in data structures
+* Write different kinds of loops and conditionals and use the loop controls
+* Can write a simple function and class in Python
 
+## Lab 2 - Data Pre-processing and Visualization
+The goal of this lab is to build an intuition into the generic functions and libraries used for importing data, data visualization, and data engineering and pre-processing.
+* Basic mathematical libraries and data input/output functions in Python
+* Visualizing the data with different functions
+* Steps of preprocessing the data,
+* Handling missing data, bad data, etc.
+* Validating data and getting it ready for applying ML algorithms
