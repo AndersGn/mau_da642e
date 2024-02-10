@@ -405,3 +405,7 @@ SecretSettings.ini
 
 # MacOs files
 *.DS_Store
+
+# Exclude these csv files
+aw_fb_data.csv
+IOT-temp.csv
